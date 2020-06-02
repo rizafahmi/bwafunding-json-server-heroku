@@ -15,6 +15,14 @@
       "img": "https://cdn.pixabay.com/photo/2016/11/14/03/14/children-1822471_1280.jpg",
       "raised": 0,
       "goal": 10000000000
+    },
+    {
+      "id": 2,
+      "title": "Arduino Kits untuk Anak-anak",
+      "description": "Menyediakan mini-pc arduino untuk semua anak Indonesia.",
+      "img": "https://live.staticflickr.com/7137/8167704197_1fe23c2774_b.jpg",
+      "raised": 0,
+      "goal": 250000000000
     }
   ]
 }
