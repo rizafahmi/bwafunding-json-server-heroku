@@ -1,31 +1,40 @@
 {
   "charities": [
     {
-      "id": 0,
-      "title": "Edukasi untuk Semua",
-      "description": "Menyediakan sarana edukasi untuk semua anak Indonesia.",
-      "img": "https://cdn.pixabay.com/photo/2017/07/30/16/22/kid-2554803_1280.jpg",
-      "raised": 0,
-      "goal": 10000000,
-      "counter": 0
-    },
-    {
       "id": 1,
-      "title": "Komputer untuk Anak Indonesia",
-      "description": "Menyediakan perangkat komputer untuk semua anak Indonesia.",
-      "img": "https://cdn.pixabay.com/photo/2016/11/14/03/14/children-1822471_1280.jpg",
-      "raised": 0,
-      "goal": 10000000000,
-      "counter": 0
+      "title": "Keep William Writing",
+      "category": "Business",
+      "thumbnail": "https://live.staticflickr.com/2569/4013944382_469787def0_z.jpg",
+      "pledged": 0,
+      "target": 14500000,
+      "date_end": 1613581200000,
+      "profile_photo": "https://live.staticflickr.com/3172/2972948615_f60cbd939d_z.jpg",
+      "profile_name": "Emily Waldon",
+      "transaction": []
     },
     {
       "id": 2,
-      "title": "Arduino Kits untuk Anak-anak",
-      "description": "Menyediakan mini-pc arduino untuk semua anak Indonesia.",
-      "img": "https://live.staticflickr.com/7137/8167704197_1fe23c2774_b.jpg",
-      "raised": 0,
-      "goal": 250000000000,
-      "counter": 0
+      "title": "Computers For Remote Learning",
+      "category": "Education",
+      "thumbnail": "https://live.staticflickr.com/6200/6070928338_aa10996f54_b.jpg",
+      "pledged": 55201500,
+      "target": 101500000,
+      "date_end": 1608829200000,
+      "profile_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kate_Miller-Heidke_%288482043582%29.jpg/405px-Kate_Miller-Heidke_%288482043582%29.jpg",
+      "profile_name": "Kate Ludlow",
+      "transaction": []
+    },
+    {
+      "id": 3,
+      "title": "One Laptop Per Child",
+      "category": "Child",
+      "thumbnail": "http://dev.laptop.org/~reuben/Donate3.jpg",
+      "pledged": 1500000,
+      "target": 100000000,
+      "date_end": 1629133200000,
+      "profile_photo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Profile_Pic_Peepsys_Eye_2019.jpg/480px-Profile_Pic_Peepsys_Eye_2019.jpg",
+      "profile_name": "Rina Rubina",
+      "transaction": []
     }
   ]
 }
