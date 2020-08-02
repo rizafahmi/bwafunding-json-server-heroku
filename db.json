@@ -10,7 +10,7 @@
       "date_end": 1613581200000,
       "profile_photo": "https://live.staticflickr.com/3172/2972948615_f60cbd939d_z.jpg",
       "profile_name": "Emily Waldon",
-      "transaction": []
+      "transactions": []
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "date_end": 1608829200000,
       "profile_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kate_Miller-Heidke_%288482043582%29.jpg/405px-Kate_Miller-Heidke_%288482043582%29.jpg",
       "profile_name": "Kate Ludlow",
-      "transaction": []
+      "transactions": []
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "date_end": 1629133200000,
       "profile_photo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Profile_Pic_Peepsys_Eye_2019.jpg/480px-Profile_Pic_Peepsys_Eye_2019.jpg",
       "profile_name": "Rina Rubina",
-      "transaction": []
+      "transactions": []
     }
   ]
 }
